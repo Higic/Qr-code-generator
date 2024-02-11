@@ -59,3 +59,16 @@ fn test_fail_qr_code_to_png() {
     let data = "hello_world";
     assert_ne!(generate_qr_code_to_png(&data), data);
 }
+
+#[test]
+fn test_main_no_png() {
+    let args = vec!["cargo".to_string(), "run".to_string(), "hello_world".to_string()];
+    assert_eq!(main(), ());
+}
+
+#[test]
+fn test_main_png() {
+    let args = vec!["cargo".to_string(), "run".to_string(), "hello_world".to_string(), "--png".to_string()];
+    assert_eq!(main(), ());
+}
+
