@@ -1,5 +1,5 @@
 # Qr-code-generator
-A small terminal app for generating qr codes, build in Rust
+A small terminal app for generating qr codes in Rust, made for a school task
 
 ## Use
 Navigate to the directory and run it using `cargo run <url> [--png]`  
