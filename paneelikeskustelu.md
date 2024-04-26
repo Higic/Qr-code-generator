@@ -30,3 +30,8 @@ Valjastamaton tekoäly vie meidät perikatoon, PRO
 - tekoäly on työkalu, jota tehokkaasti käyttäen pystyy nopeuttaa tieteellistä prosessia
 - tällä hetkellä on vain alku, tulee parantumaan huomattavasti ajan kuluessa
 - Asiimovin lakeja suoritetaan
+
+## Kysymykset
+Kysymys 1: Onko AI:n kehittämistä rajoitettava rajusti, jotta sen käyttämistä ilkeisiin tarkoituksiin voitaisiin estää?
+Kysymys 2: Onko AI:n tuomat edut riskien arvoisia?
+Kysymys 3: Onko AI:n rajoittaminen edes mahdollista?
